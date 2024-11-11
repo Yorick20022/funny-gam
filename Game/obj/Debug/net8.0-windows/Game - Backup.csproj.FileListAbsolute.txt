@@ -1,0 +1,4 @@
+D:\Development\Languages\CSharp\Game\Game\Game\obj\Debug\net8.0-windows\Game - Backup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Languages\CSharp\Game\Game\Game\obj\Debug\net8.0-windows\Game - Backup.AssemblyInfoInputs.cache
+D:\Development\Languages\CSharp\Game\Game\Game\obj\Debug\net8.0-windows\Game - Backup.AssemblyInfo.cs
+D:\Development\Languages\CSharp\Game\Game\Game\obj\Debug\net8.0-windows\Game - Backup.csproj.CoreCompileInputs.cache
